@@ -4,7 +4,7 @@
 		{
 			$email = Email::forge();
 			$email->from('info@ms-fun.com','ManagementSupport');
-			$email->to('prodigalsons@coast.ocn.ne.jp','井林杏里');
+			$email->to('anri@gmail.com','井林杏里');
 			$email->subject('テストメールです。');
 			$email->body('これはテストメールです。');
 
